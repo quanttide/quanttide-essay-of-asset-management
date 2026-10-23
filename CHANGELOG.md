@@ -2,6 +2,9 @@
 
 ## [Unreleased]
 
+### Added
+- 迁入 `category/bylaw.md`：章程式工作的来路（来自 quanttide-tutorial-of-knowledge-work 的 artifacts）
+
 ### Removed
 - 移除 schema/second-brain.md：第二大脑压力分担模型迁入元工程论文仓 quanttide-essay-of-meta-engineering（metaphysics/category/second-brain.md），资产中文名按《量潮标准范畴》口径更正
 
